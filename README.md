@@ -1,1 +1,0 @@
-# AGPires-diw-mirror-fashion
