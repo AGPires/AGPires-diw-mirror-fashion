@@ -11,6 +11,9 @@ color: #003366;
 font-size: 15px;
 }
 
+.container {
+  margin: 0 auto;
+  width: 940px;
 }
 
 .sacola {
